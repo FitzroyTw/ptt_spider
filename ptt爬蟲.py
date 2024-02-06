@@ -11,7 +11,7 @@ def get_titles_and_urls(soup):
     title_url = []
     count = 0
     r_ent = soup.select("div.r-ent")
-
+    test=0
     for title in r_ent:
         try:
             print(count, title.select_one("div.title a").text.strip())
