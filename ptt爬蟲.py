@@ -12,10 +12,10 @@ def get_titles_and_urls(soup):
     count = 0
     r_ent = soup.select("div.r-ent")
 
-    for s in r_ent:
+    for title in r_ent:
         try:
-            print(count, s.select_one("div.title a").text.strip())
-            title_url.append(f'https://www.ptt.cc{s.select_one("div.title a")["href"]}')
+            print(count, title.select_one("div.title a").text.strip())
+            title_url.append(f'https://www.ptt.cc{title.select_one("div.title a")["href"]}')
             count += 1
         except:
             print('遭到刪除')
