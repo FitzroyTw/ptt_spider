@@ -9,11 +9,18 @@
 
 使用教學:
 ------------
-運行程式即可
+運行程式
+[a]鍵進行上一頁
+[d]鍵進行下一頁
+文章根據上面的數字編號,輸入進去即可進行瀏覽。
 
 使用結果:
 -------------
-![ptt-pitcure](https://github.com/FitzroyTw/ptt.py/assets/156772301/c057a12c-2f9f-460a-a8d6-b56460f2ee7f)
+
+![1707201632903](https://github.com/FitzroyTw/ptt_spider.py/assets/156772301/c6baba8a-ffdd-493e-89b2-e708f74f0df7)
+
+![1707201679740](https://github.com/FitzroyTw/ptt_spider.py/assets/156772301/3df61a5c-b7af-41da-a74f-de688664cce1)
 
 
-![ptt-img](https://github.com/FitzroyTw/ptt.py/assets/156772301/c51a7542-1ce8-4fe7-9934-cef47cf26d7a)
+
+
