@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="532d5d26-eb9c-4794-84d9-2b1ff7445af4" name="变更" comment="change variable name" />
+    <list default="true" id="532d5d26-eb9c-4794-84d9-2b1ff7445af4" name="变更" comment="change variable name">
+      <change beforePath="$PROJECT_DIR$/ptt爬蟲.py" beforeDir="false" afterPath="$PROJECT_DIR$/ptt爬蟲.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +25,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Python/first/venv/Scripts",
+    "last_opened_file_path": "C:/Python/first/ptt-爬蟲",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
@@ -56,6 +58,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Beck\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="532d5d26-eb9c-4794-84d9-2b1ff7445af4" name="变更" comment="" />
